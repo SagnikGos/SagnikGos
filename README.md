@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Collaborative Code Editor**
 
-- 🌱 I’m currently learning **Next.js, Rust**
+- 🌱 I’m currently learning **Web3**
 
 - 📫 How to reach me **sagnik.gos06@gmail.com**
 
