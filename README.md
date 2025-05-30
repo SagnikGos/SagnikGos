@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Collaborative Code Editor**
+- 🔭 I’m currently working on **Density - My Blogging Platform**
 - 🌱 I’m currently learning **Web3 Development**
 - 📫 Reach me at **sagnik.gos06@gmail.com**
 - ⚡ Fun fact: **I go to sleep around 5 AM!**
