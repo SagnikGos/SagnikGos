@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Density - My Blogging Platform**
-- 🌱 I’m currently learning **Web3 Development**
+- 🌱 I’m currently learning **Scalable Backend Solutions**
 - 📫 Reach me at **sagnik.gos06@gmail.com**
 - ⚡ Fun fact: **I go to sleep around 5 AM!**
 
