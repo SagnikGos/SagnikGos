@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Python Developer</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SagnikGos&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=SagnikGos" alt="trophy" />
 </div>
 
 ---
